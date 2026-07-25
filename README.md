@@ -95,7 +95,7 @@ El prototipo puede consultarse en el siguiente enlace:
 ---
 
 
-# Enlace del docuemnto maestro
+# Enlace del documento maestro
 
 El documento maestro puede consultarse en el siguiente enlace:
 
