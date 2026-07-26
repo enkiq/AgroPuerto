@@ -214,3 +214,5 @@ Para mayor información sobre el proyecto puede contactar a los integrantes del 
 **Jonatan Stiven Criales Alzate: jscrialesa@unadvirtual.edu.co**
 **Angie Paola Triana Fernandez: aptrianaf@unadvirtual.edu.co**
 **Jorge Humberto Lopez Adan: jorgehlopeza28@gmail.com**
+
+---
