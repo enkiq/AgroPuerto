@@ -129,23 +129,22 @@ Este repositorio contiene la documentación del proyecto:
 ```
 AgroPuerto/
 
-│── README.md
+│── Capturas de prototipo
 
-│── Documentacion/
+│ ├── Capturas de pantalla.jpg
 
-│ ├── Proyecto_Grado.pdf
+│── Diagramas
 
-│── Prototipo/
+│ ├── Diagramas / UML.jpg
 
-│ ├── Capturas/
+│── Documentación
 
-│ ├── AgroPuerto_Figma.pdf
+│ ├── Aplicacion web.fig
 
-│── Diagramas/
+│ ├── DOC maestro_proyecto de grado_fase_4_grupo202016907.pdf
 
-│ ├── Casos_de_Uso.png
+│ ├── Readme.md
 
-│ ├── Arquitectura.png
 
 ```
 
