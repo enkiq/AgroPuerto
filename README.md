@@ -174,7 +174,9 @@ Prototipo funcional validado mediante pruebas con usuarios finales.
 # Integrantes
 
 **Investigador principal Jonatan Stiven Criales Alzate**
+
 **1 coinvestigador Angie Paola Triana Fernandez**
+
 **2 coinvestigador Jorge Humberto Lopez Adan**
 
 ---
@@ -212,7 +214,9 @@ El contenido del repositorio corresponde al desarrollo del trabajo de grado pres
 Para mayor información sobre el proyecto puede contactar a los integrantes del grupo de investigación mediante los canales institucionales de la Universidad Nacional Abierta y a Distancia (UNAD).
 
 **Jonatan Stiven Criales Alzate: jscrialesa@unadvirtual.edu.co**
+
 **Angie Paola Triana Fernandez: aptrianaf@unadvirtual.edu.co**
+
 **Jorge Humberto Lopez Adan: jorgehlopeza28@gmail.com**
 
 ---
