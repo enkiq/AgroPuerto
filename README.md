@@ -99,7 +99,7 @@ El prototipo puede consultarse en el siguiente enlace:
 
 El documento maestro puede consultarse en el siguiente enlace:
 
-🔗 **---**
+🔗 **https://unadvirtualedu-my.sharepoint.com/:w:/g/personal/jscrialesa_unadvirtual_edu_co/IQBSLNgznBFxSYSENoVZpfDgAaeCI2a-Qxp7vOw2aBdJJbI?e=nYnw4e**
 
 
 ---
@@ -109,7 +109,7 @@ El documento maestro puede consultarse en el siguiente enlace:
 
 El video puede consultarse en el siguiente enlace:
 
-🔗 **----**
+🔗 **https://youtu.be/JWWxm4lQs9I**
 
 
 ---
